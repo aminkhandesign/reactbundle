@@ -1,0 +1,22 @@
+{
+  "name": "practise_react",
+  "version": "1.0.0",
+  "description": "first react project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aminkhandesign/reactbundle.git"
+  },
+  "author": "amin khan design",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aminkhandesign/reactbundle/issues"
+  },
+  "homepage": "https://github.com/aminkhandesign/reactbundle#readme",
+  "devDependencies": {
+    "babel-cli": "^6.18.0"
+  }
+}
