@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/aminkhandesign/reactbundle#readme",
   "devDependencies": {
-    "babel-cli": "^6.18.0"
+    "babel-cli": "^6.18.0",
+    "babel-preset-latest": "^6.16.0",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-stage-0": "^6.16.0"
   }
 }
